@@ -5,6 +5,7 @@
 
 <h2>Датасеты:</h2>
 <p><a href="https://github.com/vladimir-vova/ML_analyst/tree/main/House%20Prices">House Prices</a>: <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques">DataSet</a></p>
+<p><a href="https://github.com/vladimir-vova/ML_analyst/tree/main/Student%20Performance%20Factors">House Prices</a>: <a href="https://www.kaggle.com/datasets/lainguyn123/student-performance-factors">DataSet</a></p>
 
 
 <br><h2>📜 Лицензия</h2><br>
